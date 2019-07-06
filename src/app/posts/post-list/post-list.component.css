@@ -1,0 +1,28 @@
+:host{
+  margin-top: 1rem;
+  display: block;
+}
+.info-text{
+  text-align: center;
+}
+
+mat-spinner{
+  margin: auto;
+}
+
+.smile{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: 10%;
+  max-height: 10%;
+}
+
+.post-image{
+  width: 100%;
+}
+.post-image img{
+  width: 100%;
+  box-shadow:  2px 2px 5px rgba(0, 0, 0, 0.5);
+}
